@@ -1,8 +1,9 @@
 {
-  "name": "image-analysis-api",
+  "name": "ai-filecoin-roaster",
   "version": "1.0.0",
-  "description": "An Express API for analyzing images and generating roasts using OpenAI.",
+  "description": "An AI-powered image roasting API using OpenAI.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
